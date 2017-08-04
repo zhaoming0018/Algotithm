@@ -1,0 +1,6 @@
+# ignore .class file
+*.class
+
+# ignore file in /.idea
+.idea/*
+*.iml
